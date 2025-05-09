@@ -1,5 +1,9 @@
 # ZERO63-HECK
 
+<p align="center">
+  <img src="https://your-image-link.com/profile.jpg" alt="ZERO63-HECK Profile" width="200" style="border-radius: 50%;">
+</p>
+
 **ZERO63-HECK** adalah proyek open-source yang berfokus pada eksplorasi sistem, scripting, dan keamanan siber.  
 Dibuat oleh individu yang berdedikasi terhadap dunia teknologi, ZERO63-HECK menyediakan berbagai alat bantu yang dapat digunakan untuk pembelajaran, automasi, serta eksplorasi sistem berbasis terminal.
 
