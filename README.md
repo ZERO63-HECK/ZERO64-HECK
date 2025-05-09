@@ -1,7 +1,7 @@
 # ZERO63-HECK
 
 <p align="center">
-  <img src="https://your-image-link.com/profile.jpg" alt="ZERO63-HECK Profile" width="200" style="border-radius: 50%;">
+  <img src="https://media.tenor.com/M7zTRtbUb2QAAAAM/dancing-zero-two.gif" alt="ZERO63-HECK Profile" width="200" style="border-radius: 50%;">
 </p>
 
 **ZERO63-HECK** adalah proyek open-source yang berfokus pada eksplorasi sistem, scripting, dan keamanan siber.  
