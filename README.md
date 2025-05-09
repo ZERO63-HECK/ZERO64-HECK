@@ -15,7 +15,7 @@ Proyek ini cocok untuk pengguna yang ingin memahami lebih dalam tentang dunia ha
 
 - 📞 **WhatsApp:** [0851-3652-5093](https://wa.me/6285136525093)  
 - 🐱 **GitHub:** [github.com/ZERO63-HECK](https://github.com/ZERO63-HECK)  
-- ✈️ **Telegram:** [t.me/zero63](https://t.me/zero63)  
+- ✈️ **Telegram:** [t.me/zero63_heck](@zero63_heck)  
 - 🌐 **Website:** [https://zero63-heck.my.id](https://zero63-heck.my.id)
 
 ---
