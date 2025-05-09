@@ -4,10 +4,7 @@
   <img src="https://media.tenor.com/M7zTRtbUb2QAAAAM/dancing-zero-two.gif" alt="ZERO63-HECK Profile" width="200" style="border-radius: 50%;">
 </p>
 
-**ZERO63-HECK** adalah proyek open-source yang berfokus pada eksplorasi sistem, scripting, dan keamanan siber.  
-Dibuat oleh individu yang berdedikasi terhadap dunia teknologi, ZERO63-HECK menyediakan berbagai alat bantu yang dapat digunakan untuk pembelajaran, automasi, serta eksplorasi sistem berbasis terminal.
-
-Proyek ini cocok untuk pengguna yang ingin memahami lebih dalam tentang dunia hacking etis, sistem operasi, dan jaringan secara langsung dengan tools yang ringan dan fleksibel.
+**ZERO63-HECK** 
 
 ---
 
